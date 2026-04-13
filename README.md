@@ -159,7 +159,7 @@ Medha S	Developer
 Project Guide: Mrs. S. Kavitha, AP/CSE
 
 📄 License
-MIT
+SMIT
 
 🙏 Acknowledgments
 Kvasir Dataset (Simula Research Laboratory)
