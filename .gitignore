@@ -1,0 +1,42 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# React
+frontend-react/dist/
+frontend-react/.vite/
+frontend-react/node_modules/
+
+# Backend uploads
+backend-node/uploads/
+backend-node/reports/
+
+# Database
+*.db
+*.sqlite
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (comment out if you want to include small test files)
+data/raw/
+
+# Model files
+*.pth

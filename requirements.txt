@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+efficientnet-pytorch
+opencv-python
+numpy
+pillow
+fastapi
+uvicorn
+python-multipart
+reportlab
